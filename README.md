@@ -65,15 +65,15 @@ Finally, the price is likely to increase once the book is out of Early Access, s
 
 ## Who this book is for
 
-This is NOT a 1000th tutorial on how to set up a CDN, nor will it teach you the fundamentals of programming.
+This is NOT the 1000th tutorial on how to set up a CDN, nor will it teach you the fundamentals of programming.
 
-Instead, it's a from-theory-to-practice guide and you may enjoy it if any of the following:
+Instead, it's a from-theory-to-practice guide and you may enjoy it if any of the following holds true for you:
 
 - You think that speed is a fundamental part of the user experience
 - You keep screaming "show me the code!" when reading about scaling
 - You want to understand how low-level network protocols work and their impact on your applications
 - You think that security should be "by design"
-- Your cloud bill is too bug and you want to take back control
+- Your cloud bill is too much and you want to take back control
 - You are a developer and want to learn security
 - You believe that the best defense is thinking like an attacker
 - You learn by building and love to look under the hood
@@ -120,7 +120,7 @@ But I repeat, this book is NOT a computer science book.
 ### 4 - Store and distribute assets faster and cheaper with R2
 
 - The insanity of egress pricing of other cloud providers
-- How to migrate from S3 to R2 without downtime and shring your cloud bill
+- How to migrate from S3 to R2 without downtime and shrink your cloud bill
 - The relation between latency and bandwidth
 - How to get the best throughput out of your network interfaces
 - Why you should not use the `r2.dev` domain
